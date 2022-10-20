@@ -1,4 +1,10 @@
 {
+
+  "devDependencies": {
+    "@types/node": "^18.11.2",
+    "typescript": "^4.8.4"
+  }
+
   "name": "ts-practice",
   "version": "1.0.0",
   "main": "index.js",
@@ -17,4 +23,5 @@
   },
   "homepage": "https://github.com/y1951511079/Typescript-for-javascript-developers#readme",
   "description": ""
+
 }
